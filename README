@@ -1,0 +1,4 @@
+This is a calculator that accurately portrays the monster damage and health at a given Greater 
+Rift difficulty in Diablo 3. Simply compile, run, and input the difficulty rating you wish to 
+know the relative monster health and damage of. The calculator will both display the health and 
+damage relative to normal difficulty aswell as relative to Torment 13.
